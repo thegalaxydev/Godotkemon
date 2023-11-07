@@ -1,0 +1,6 @@
+res://Scenes/Main.tscn
+res://Scripts/PlayerMovement.cs
+res://Scripts/PlayerAnimation.cs
+res://Scripts/GrassCollision.cs
+res://Scripts/Player.cs
+res://Scripts/GameManager.cs

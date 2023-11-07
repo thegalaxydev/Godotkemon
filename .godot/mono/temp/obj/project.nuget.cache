@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W2/4NVDTUfWicsaP0Jnx5xgXaEHBERCuh406slFuXY02rR8xri2aax78FxsrvDtOGaQuXhr0LQrSNOXX6khvBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s228029\\Documents\\Projects\\Godotkemon\\Projects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s228029\\.nuget\\packages\\godot.sourcegenerators\\4.1.3\\godot.sourcegenerators.4.1.3.nupkg.sha512",
+    "C:\\Users\\s228029\\.nuget\\packages\\godotsharp\\4.1.3\\godotsharp.4.1.3.nupkg.sha512",
+    "C:\\Users\\s228029\\.nuget\\packages\\godotsharpeditor\\4.1.3\\godotsharpeditor.4.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

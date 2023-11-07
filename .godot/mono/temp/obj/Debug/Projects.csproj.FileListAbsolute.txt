@@ -1,0 +1,17 @@
+C:\Users\s228029\Documents\Projects\Godotkemon\.godot\mono\temp\bin\Debug\Projects.deps.json
+C:\Users\s228029\Documents\Projects\Godotkemon\.godot\mono\temp\bin\Debug\Projects.runtimeconfig.json
+C:\Users\s228029\Documents\Projects\Godotkemon\.godot\mono\temp\bin\Debug\Projects.dll
+C:\Users\s228029\Documents\Projects\Godotkemon\.godot\mono\temp\bin\Debug\Projects.pdb
+C:\Users\s228029\Documents\Projects\Godotkemon\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\s228029\Documents\Projects\Godotkemon\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\s228029\Documents\Projects\Godotkemon\.godot\mono\temp\obj\Debug\Projects.csproj.AssemblyReference.cache
+C:\Users\s228029\Documents\Projects\Godotkemon\.godot\mono\temp\obj\Debug\Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s228029\Documents\Projects\Godotkemon\.godot\mono\temp\obj\Debug\Projects.AssemblyInfoInputs.cache
+C:\Users\s228029\Documents\Projects\Godotkemon\.godot\mono\temp\obj\Debug\Projects.AssemblyInfo.cs
+C:\Users\s228029\Documents\Projects\Godotkemon\.godot\mono\temp\obj\Debug\Projects.csproj.CoreCompileInputs.cache
+C:\Users\s228029\Documents\Projects\Godotkemon\.godot\mono\temp\obj\Debug\Projects.csproj.CopyComplete
+C:\Users\s228029\Documents\Projects\Godotkemon\.godot\mono\temp\obj\Debug\Projects.dll
+C:\Users\s228029\Documents\Projects\Godotkemon\.godot\mono\temp\obj\Debug\refint\Projects.dll
+C:\Users\s228029\Documents\Projects\Godotkemon\.godot\mono\temp\obj\Debug\Projects.pdb
+C:\Users\s228029\Documents\Projects\Godotkemon\.godot\mono\temp\obj\Debug\Projects.genruntimeconfig.cache
+C:\Users\s228029\Documents\Projects\Godotkemon\.godot\mono\temp\obj\Debug\ref\Projects.dll
